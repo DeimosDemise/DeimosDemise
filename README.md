@@ -9,7 +9,6 @@ Learning C#
 
 ・**Want to reach? Add Deimos#5735 on [discord](https://discord.gg/logger)**
 </a>
-・**Website: [https://criminals.life(down for now)](https://criminals.life(down for now)))**
 
 
 <h3 align="left">Languages:</h3>
