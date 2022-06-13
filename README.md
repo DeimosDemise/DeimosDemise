@@ -1,7 +1,10 @@
 <a href="https://discord.gg/logger" target="_blank"> <img src="https://media.discordapp.net/attachments/953092373464879107/985953361629159494/unknown.png?width=1126&height=600" alt="Deimos on Github"/></a>
 ```sh-session
-Im 17 years old
-Learning C#
+Owner of 
+Moon Builder
+Moon Stealer
+Moon Rat
+Spooky C# Skidder
 ```
 
 <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
