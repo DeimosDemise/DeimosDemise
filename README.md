@@ -1,7 +1,7 @@
 <a href="https://discord.gg/logger" target="_blank"> <img src="https://cdn.discordapp.com/attachments/953092373464879107/985952542347382814/DeimosAndTerryADavis.gif" alt="Deimos on Github"/></a>
 ```sh-session
-Im 15 years old
-Learning C++
+Im 17 years old
+Learning C#
 ```
 
 <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
