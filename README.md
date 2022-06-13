@@ -8,7 +8,7 @@ Learning C#
 
 
 ・**Want to reach? Add Deimos#5735 on [discord](https://discord.gg/logger)**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxtyx&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Deimos /> </p>
+</a>
 ・**Website: [https://criminals.life(down for now)]([https://mxty.netlify.app](https://criminals.life(down for now)))**
 
 
