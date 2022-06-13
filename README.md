@@ -1,4 +1,4 @@
-<a href="https://discord.gg/logger" target="_blank"> <img src="https://media.discordapp.net/attachments/953092373464879107/985953361629159494/unknown.png?width=1126&height=532" alt="Deimos on Github"/></a>
+<a href="https://discord.gg/logger" target="_blank"> <img src="https://media.discordapp.net/attachments/953092373464879107/985953361629159494/unknown.png?width=1126&height=600" alt="Deimos on Github"/></a>
 ```sh-session
 Im 17 years old
 Learning C#
